@@ -1,0 +1,27 @@
+{
+  "name": "match-zone",
+  "version": "1.0.0",
+  "description": "只須點及框框即可開始bash",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pehguin25/Match-Zone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pehguin25/Match-Zone/issues"
+  },
+  "homepage": "https://github.com/pehguin25/Match-Zone#readme",
+  "devDependencies": {
+    "electron": "^41.1.1"
+  },
+  "scripts": {
+  "start": "electron ."
+}
+}
